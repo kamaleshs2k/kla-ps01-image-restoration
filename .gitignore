@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+train/
+Test_NoisyLR/
+*.zip
+
+.ipynb_checkpoints/
