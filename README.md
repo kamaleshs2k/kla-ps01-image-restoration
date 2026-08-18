@@ -556,8 +556,8 @@ The current prototype has the following limitations:
 | GitHub repository        |    ✓    |
 | Fresh-clone verification |    ✓    |
 | PSNR baseline comparison |    ✓    |
-| SSIM metric              | Pending |
-| LPIPS metric             | Pending |
+| SSIM metric              | 0.758344 |
+| LPIPS metric             | 0.317474 |
 | Final H100 benchmark     | Pending |
 
 ---
