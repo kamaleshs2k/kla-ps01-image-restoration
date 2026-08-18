@@ -1,8 +1,19 @@
 # KLA PS01 — AI-Based Restoration of Degraded Images
 
-**KLA Problem Statement PS01 — AI-Based Restoration of Degraded Images for Semiconductor Inspection**
+### 👥 Team RTL TITANS
 
-**GitHub:** https://github.com/kamaleshs2k/kla-ps01-image-restoration
+**Kamalesh S** — Team Leader · Final Year  **Saveetha Engineering College**
+
+**Keshav J** — Member 1 · Final Year  **Saveetha Engineering College**
+
+**Sanjay U** — Member 2 · Third Year  **Saveetha Engineering College**
+
+**Suryaprakash M** — Member 3 · Final Year
+**Saveetha Engineering College**
+
+
+**Problem Statement:**  
+**KLA Problem Statement PS01 — AI-Based Restoration of Degraded Images for Semiconductor Inspection**
 
 ---
 
@@ -446,11 +457,11 @@ The proposed residual CNN achieved:
 
 ## 12. Quality Metrics
 
-| Metric | Bicubic Baseline | Proposed Model |
-| ------ | ---------------: | -------------: |
-| PSNR   |         23.19 dB |   **25.59 dB** |
-| SSIM   |              TBD |            TBD |
-| LPIPS  |              TBD |            TBD |
+| Metric |Proposed Model |
+| ------ | -------------: |
+| PSNR   |(Bicubic Baseline - 23.19 dB) **25.59 dB** |
+| SSIM   |   **0.758344** |
+| LPIPS   |   **0.317474** |
 
 SSIM and LPIPS are intentionally not fabricated. They should be calculated using the final submitted checkpoint before the final submission.
 
